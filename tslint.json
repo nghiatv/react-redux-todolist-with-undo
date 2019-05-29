@@ -1,0 +1,9 @@
+{
+  "extends": ["tslint-config-standard", "tslint-react", "tslint-config-prettier"],
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "rules": {
+    "prettier": true,
+    "jsx-no-multiline-js": false, // TODO disable because of cost of refactor, enable later
+    "jsx-no-lambda": false // there are no better solution for event handler with params, see https://github.com/palantir/tslint-react/issues/96
+  }
+}
