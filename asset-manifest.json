@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-todolist-with-undo/static/css/main.bd354aa8.chunk.css",
+    "main.js": "/react-redux-todolist-with-undo/static/js/main.9f0b5874.chunk.js",
+    "main.js.map": "/react-redux-todolist-with-undo/static/js/main.9f0b5874.chunk.js.map",
+    "runtime~main.js": "/react-redux-todolist-with-undo/static/js/runtime~main.6bd7d261.js",
+    "runtime~main.js.map": "/react-redux-todolist-with-undo/static/js/runtime~main.6bd7d261.js.map",
+    "static/js/2.676772fe.chunk.js": "/react-redux-todolist-with-undo/static/js/2.676772fe.chunk.js",
+    "static/js/2.676772fe.chunk.js.map": "/react-redux-todolist-with-undo/static/js/2.676772fe.chunk.js.map",
+    "index.html": "/react-redux-todolist-with-undo/index.html",
+    "precache-manifest.f097de60b97c48c585c3d343a82b1371.js": "/react-redux-todolist-with-undo/precache-manifest.f097de60b97c48c585c3d343a82b1371.js",
+    "service-worker.js": "/react-redux-todolist-with-undo/service-worker.js",
+    "static/css/main.bd354aa8.chunk.css.map": "/react-redux-todolist-with-undo/static/css/main.bd354aa8.chunk.css.map"
+  }
+}
