@@ -11,6 +11,7 @@
     "@types/react-redux": "^7.0.9",
     "@types/redux-persist": "^4.3.1",
     "classnames": "^2.2.6",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",
@@ -22,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -41,5 +44,6 @@
   },
   "devDependencies": {
     "redux-devtools-extension": "^2.13.8"
-  }
+  },
+  "homepage": "https://nghitv.github.io/react-redux-todolist-with-undo"
 }
